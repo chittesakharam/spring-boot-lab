@@ -48,3 +48,27 @@ A structured collection of Spring Boot examples, real-world projects, and interv
 
 ---
 Happy Coding! ☕
+
+# Spring Boot Lab
+
+A collection of Spring Boot practical tasks and projects completed while learning and practicing Spring Boot concepts.
+
+## 📚 Projects & Tasks
+
+| No. | Project / Task | Status |
+|---:|---|:---:|
+| 01 | Student Courses List Injection | ✅ |
+| 02 | Employee Skills Array Injection | ✅ |
+| 03 | Product Features Map Injection | ✅ |
+| 04 | Company Address Object Injection | ✅ |
+| 05 | Hospital Full Collection Injection | ✅ |
+| 06 | Payment Gateway Profile System | ✅ |
+| 07 | Notification Service Profile | ✅ |
+| 08 | Vehicle Engine Profile System | ✅ |
+| 09 | Student Database Profile Loader | ✅ |
+| 10 | Student Information Management using YAML | ✅ |
+| 11 | Welcome Email Sender | ✅ |
+| 12 | Student Course Registration Management System | ✅ |
+| 13 | Exam Result Notification System | ✅ |
+| 14 | Employee Record Management System | ✅ |
+| 15 | Feedback Acknowledgement System | ✅ |
