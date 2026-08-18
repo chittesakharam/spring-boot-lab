@@ -72,3 +72,14 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 13 | Exam Result Notification System | ✅ |
 | 14 | Employee Record Management System | ✅ |
 | 15 | Feedback Acknowledgement System | ✅ |
+| 15 | Feedback Acknowledgement System | ✅ |
+| 16 | Employee Management System using CrudRepository | ✅ |
+| 17 | Employee Management using PagingAndSortingRepository | ✅ |
+| 18 | Hospital Patient Management System using Paging | ✅ |
+| 19 | Movie Ticket Booking System using Sorting | ✅ |
+| 20 | Library Book Management System using JpaRepository | ✅ |
+| 21 | Online Book Rental Management System | ✅ |
+| 22 | Smart Gym Membership Management System | ✅ |
+| 23 | Employee Payroll Management System | ✅ |
+| 24 | E-Commerce Product Catalog System | ✅ |
+| 25 | Online Course Management using JPA Finder Methods | ✅ |
