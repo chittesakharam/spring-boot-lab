@@ -83,3 +83,11 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 23 | Employee Payroll Management System | ✅ |
 | 24 | E-Commerce Product Catalog System | ✅ |
 | 25 | Online Course Management using JPA Finder Methods | ✅ |
+| 26 | Hotel Room Booking Management System using JPA Finder Methods | ✅ |
+| 27 | Online Pharmacy Inventory System using JPA Finder Methods | ✅ |
+| 28 | Cricketer Management System using @Query | ✅ |
+| 29 | Football Player Management System using @Query, @Version & Timestamping | ✅ |
+| 30 | Hockey Player Tournament Management System using @Query, @Version & Timestamping | ✅ |
+| 31 | E-Commerce Order Tracking System using Timestamping | ✅ |
+| 32 | Online Pharmacy Management System using JPA Finder Methods | ✅ |
+| 33 | Online Shopping Order Reporting System using @Query | ✅ |
