@@ -91,3 +91,5 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 31 | E-Commerce Order Tracking System using Timestamping | ✅ |
 | 32 | Online Pharmacy Management System using JPA Finder Methods | ✅ |
 | 33 | Online Shopping Order Reporting System using @Query | ✅ |
+| 34 | Online Recipe Management System using @ElementCollection | ✅ |
+| 35 | Digital Archive System using BLOB Storage | ✅ |
