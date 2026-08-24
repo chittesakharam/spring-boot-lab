@@ -93,3 +93,5 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 33 | Online Shopping Order Reporting System using @Query | ✅ |
 | 34 | Online Recipe Management System using @ElementCollection | ✅ |
 | 35 | Digital Archive System using BLOB Storage | ✅ |
+| 36 | Employee Resume Management System using CLOB | ✅ |
+| 37 | Digital Library Cover Image Management System using BLOB | ✅ |
