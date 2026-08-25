@@ -97,3 +97,5 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 37 | Digital Library Cover Image Management System using BLOB | ✅ |
 | 38 | University Course Management System using @OneToMany | ✅ |
 | 39 | Hospital Patient Management System using Bidirectional @OneToMany | ✅ |
+| 40 | Customer and PAN Card Management System using Bidirectional @OneToOne | ✅ |
+| 41 | Library and Books Management System using Unidirectional @OneToMany | ✅ |
