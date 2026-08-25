@@ -95,3 +95,5 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 35 | Digital Archive System using BLOB Storage | ✅ |
 | 36 | Employee Resume Management System using CLOB | ✅ |
 | 37 | Digital Library Cover Image Management System using BLOB | ✅ |
+| 38 | University Course Management System using @OneToMany | ✅ |
+| 39 | Hospital Patient Management System using Bidirectional @OneToMany | ✅ |
