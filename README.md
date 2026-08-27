@@ -99,3 +99,5 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 39 | Hospital Patient Management System using Bidirectional @OneToMany | ✅ |
 | 40 | Customer and PAN Card Management System using Bidirectional @OneToOne | ✅ |
 | 41 | Library and Books Management System using Unidirectional @OneToMany | ✅ |
+| 42 | Product Inventory Management System using @Version | ✅ |
+| 43 | Employee Attendance System using Timestamping | ✅ |
