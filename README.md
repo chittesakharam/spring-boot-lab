@@ -101,3 +101,5 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 41 | Library and Books Management System using Unidirectional @OneToMany | ✅ |
 | 42 | Product Inventory Management System using @Version | ✅ |
 | 43 | Employee Attendance System using Timestamping | ✅ |
+| 44 | Music Festival Artist Management System using @ManyToMany | ✅ |
+| 45 | Space Mission Astronaut Assignment System using @ManyToMany | ✅ |
