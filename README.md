@@ -103,3 +103,6 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 43 | Employee Attendance System using Timestamping | ✅ |
 | 44 | Music Festival Artist Management System using @ManyToMany | ✅ |
 | 45 | Space Mission Astronaut Assignment System using @ManyToMany | ✅ |
+| 46 | User Profile Management System using @OneToOne | ✅ |
+| 47 | Customer Order Management System using @OneToMany | ✅ |
+| 48 | Student Course Enrollment System using @ManyToMany | ✅ |
