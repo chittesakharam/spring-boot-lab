@@ -106,3 +106,6 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 46 | User Profile Management System using @OneToOne | ✅ |
 | 47 | Customer Order Management System using @OneToMany | ✅ |
 | 48 | Student Course Enrollment System using @ManyToMany | ✅ |
+| 49 | Spring Boot MVC Welcome Message using JSP | ✅ |
+| 50 | Spring Boot MVC Student Welcome using Model and JSP | ✅ |
+| 51 | Spring Boot MVC Employee Greeting using Model and JSP | ✅ |
