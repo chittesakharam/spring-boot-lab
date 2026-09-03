@@ -112,3 +112,9 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 52 | Student Details using Model and JSP | ✅ |
 | 53 | Employee Details using Model and JSP | ✅ |
 | 54 | Product Details using Map and JSP | ✅ |
+| 55 | Student Admission Form using @ModelAttribute | ✅ |
+| 56 | Electricity Bill Calculator using @RequestParam | ✅ |
+| 57 | Employee Profile using @PathVariable | ✅ |
+| 58 | Film Festival Pass Booking System using Spring Boot MVC, JSP & JSTL | ✅ |
+| 59 | Drone Rental Request System using Spring Boot MVC, JSP & JSTL | ✅ |
+
