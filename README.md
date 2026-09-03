@@ -117,4 +117,5 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 57 | Employee Profile using @PathVariable | ✅ |
 | 58 | Film Festival Pass Booking System using Spring Boot MVC, JSP & JSTL | ✅ |
 | 59 | Drone Rental Request System using Spring Boot MVC, JSP & JSTL | ✅ |
+| 60 | Employee Skill Tracker using Spring Boot MVC, JSP, JSTL & JPA | ✅ |
 
