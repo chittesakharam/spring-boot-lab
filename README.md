@@ -120,3 +120,5 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 60 | Employee Skill Tracker using Spring Boot MVC, JSP, JSTL & JPA | ✅ |
 | 61 | Student Registration System using @ModelAttribute & JSP | ✅ |
 | 62 | Product Search System using @RequestParam & JSP | ✅ |
+| 63 | Online Book Store Management System - Spring Boot MVC CRUD | ✅ |
+| 64 | Cricket Academy Cricketer Management System - Spring Boot MVC CRUD | ✅ |
