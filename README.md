@@ -122,3 +122,5 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 62 | Product Search System using @RequestParam & JSP | ✅ |
 | 63 | Online Book Store Management System - Spring Boot MVC CRUD | ✅ |
 | 64 | Cricket Academy Cricketer Management System - Spring Boot MVC CRUD | ✅ |
+| 65 | Employee Welcome Page using Spring MVC Internationalization | ✅ |
+| 66 | Student Profile Page using Spring MVC Internationalization | ✅ |
