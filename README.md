@@ -124,3 +124,5 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 64 | Cricket Academy Cricketer Management System - Spring Boot MVC CRUD | ✅ |
 | 65 | Employee Welcome Page using Spring MVC Internationalization | ✅ |
 | 66 | Student Profile Page using Spring MVC Internationalization | ✅ |
+| 67 | Language Switcher using Spring Boot MVC Internationalization | ✅ |
+| 68 | Login Page with English Hindi & French Internationalization | ✅ |
