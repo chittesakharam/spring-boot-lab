@@ -126,3 +126,4 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 66 | Student Profile Page using Spring MVC Internationalization | ✅ |
 | 67 | Language Switcher using Spring Boot MVC Internationalization | ✅ |
 | 68 | Login Page with English Hindi & French Internationalization | ✅ |
+| 69 | Library Management System with USER and ADMIN Roles using Spring Security | ✅ |
