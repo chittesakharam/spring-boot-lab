@@ -127,3 +127,8 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 67 | Language Switcher using Spring Boot MVC Internationalization | ✅ |
 | 68 | Login Page with English Hindi & French Internationalization | ✅ |
 | 69 | Library Management System with USER and ADMIN Roles using Spring Security | ✅ |
+| 70 | Welcome REST API | ✅ |
+| 71 | Student REST API | ✅ |
+| 72 | Employee REST API | ✅ |
+| 73 | Hospital REST API | ✅ |
+| 74 | Bank REST API | ✅ |
