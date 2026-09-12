@@ -137,3 +137,5 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 77 | Product Details using @PathVariable | ✅ |
 | 78 | Employee Department using @RequestParam | ✅ |
 | 79 | City Information using @PathVariable and @RequestParam | ✅ |
+| 80 | Movie Review Management System - CRUD REST API | ✅ |
+| 81 | Blood Donor Management System - CRUD REST API | ✅ |
