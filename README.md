@@ -132,3 +132,8 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 72 | Employee REST API | ✅ |
 | 73 | Hospital REST API | ✅ |
 | 74 | Bank REST API | ✅ |
+| 75 | Welcome User using @PathVariable | ✅ |
+| 76 | Student Greeting using @RequestParam | ✅ |
+| 77 | Product Details using @PathVariable | ✅ |
+| 78 | Employee Department using @RequestParam | ✅ |
+| 79 | City Information using @PathVariable and @RequestParam | ✅ |
