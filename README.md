@@ -143,3 +143,5 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 83 | Smart Parking Slot Management System with Global Exception Handling | ✅ |
 | 84-A | Courier Producer - REST API | ✅ |
 | 84-B | Courier Consumer - RestTemplate | ✅ |
+| 85-A | Basic REST Producer | ✅ |
+| 85-B | Basic REST Consumer | ✅ |
