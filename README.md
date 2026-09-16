@@ -145,3 +145,5 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 84-B | Courier Consumer - RestTemplate | ✅ |
 | 85-A | Basic REST Producer | ✅ |
 | 85-B | Basic REST Consumer | ✅ |
+| 86-A | REST Producer with Different Messages | ✅ |
+| 86-B | REST Consumer with Multiple Messages | ✅ |
