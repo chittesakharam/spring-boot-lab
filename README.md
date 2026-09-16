@@ -141,3 +141,5 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 81 | Blood Donor Management System - CRUD REST API | ✅ |
 | 82 | Smart Locker Management System - CRUD REST API with PATCH | ✅ |
 | 83 | Smart Parking Slot Management System with Global Exception Handling | ✅ |
+| 84-A | Courier Producer - REST API | ✅ |
+| 84-B | Courier Consumer - RestTemplate | ✅ |
