@@ -147,3 +147,5 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 85-B | Basic REST Consumer | ✅ |
 | 86-A | REST Producer with Different Messages | ✅ |
 | 86-B | REST Consumer with Multiple Messages | ✅ |
+| 87-A | Employee Performance Management System - REST API | ✅ |
+| 87-B | Employee Performance Management System - RestTemplate Client | ✅ |
