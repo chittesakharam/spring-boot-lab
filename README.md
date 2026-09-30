@@ -153,3 +153,6 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 89-A | Employee Eureka Server | ✅ |
 | 89-B | Employee Service Discovery | ✅ |
 | 89-C | Employee Client Service using DiscoveryClient | ✅ |
+| 90-A | Payment Eureka Server | ✅ |
+| 90-B | Payment Service Discovery | ✅ |
+| 90-C | Payment Client Service using DiscoveryClient | ✅ |
