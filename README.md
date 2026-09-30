@@ -150,3 +150,6 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 87-A | Employee Performance Management System - REST API | ✅ |
 | 87-B | Employee Performance Management System - RestTemplate Client | ✅ |
 | 88 | Travel Package Management System - Spring Boot WebFlux CRUD with MySQL | ✅ |
+| 89-A | Employee Eureka Server | ✅ |
+| 89-B | Employee Service Discovery | ✅ |
+| 89-C | Employee Client Service using DiscoveryClient | ✅ |
