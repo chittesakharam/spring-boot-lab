@@ -156,3 +156,6 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 90-A | Payment Eureka Server | ✅ |
 | 90-B | Payment Service Discovery | ✅ |
 | 90-C | Payment Client Service using DiscoveryClient | ✅ |
+| 91-A | Notification Eureka Server | ✅ |
+| 91-B | Notification Service Discovery | ✅ |
+| 91-C | Notification Client using DiscoveryClient | ✅ |
