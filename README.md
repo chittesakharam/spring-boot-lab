@@ -149,3 +149,4 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 86-B | REST Consumer with Multiple Messages | ✅ |
 | 87-A | Employee Performance Management System - REST API | ✅ |
 | 87-B | Employee Performance Management System - RestTemplate Client | ✅ |
+| 88 | Travel Package Management System - Spring Boot WebFlux CRUD with MySQL | ✅ |
