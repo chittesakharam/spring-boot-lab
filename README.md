@@ -159,3 +159,6 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 91-A | Notification Eureka Server | ✅ |
 | 91-B | Notification Service Discovery | ✅ |
 | 91-C | Notification Client using DiscoveryClient | ✅ |
+| 92-A | Order Service using OpenFeign | ✅ |
+| 92-B | Payment Service for OpenFeign Communication | ✅ |
+| 92-C | Eureka server using OpenFeign | ✅ |
