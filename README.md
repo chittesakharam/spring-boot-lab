@@ -162,3 +162,6 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 92-A | Order Service using OpenFeign | ✅ |
 | 92-B | Payment Service for OpenFeign Communication | ✅ |
 | 92-C | Eureka server using OpenFeign | ✅ |
+| 93-A | Student Service using OpenFeign | ✅ |
+| 93-B | Notification Service for OpenFeign Communication | ✅ |
+| 93-C | Eureka server for student notification service | ✅ |
