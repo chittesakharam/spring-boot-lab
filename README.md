@@ -165,3 +165,6 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 93-A | Student Service using OpenFeign | ✅ |
 | 93-B | Notification Service for OpenFeign Communication | ✅ |
 | 93-C | Eureka server for student notification service | ✅ |
+| 94-A | Product Service using OpenFeign | ✅ |
+| 94-B | Inventory Service for OpenFeign Communication | ✅ |
+| 94-C | Eureka server for Inventory Service  | ✅ |
