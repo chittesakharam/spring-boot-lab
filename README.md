@@ -170,3 +170,7 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 94-C | Eureka server for Inventory Service  | ✅ |
 | 95-A | Prime Number Service | ✅ |
 | 95-B | Prime Number Feign Client | ✅ |
+| 96-A | Spring Cloud Config Server | ✅ |
+| 96-B | Eureka Discovery Server | ✅ |
+| 96-C | Message Service - Config + Eureka Provider | ✅ |
+| 96-D | Client Service - Eureka + OpenFeign Client | ✅ |
