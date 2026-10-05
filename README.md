@@ -168,3 +168,5 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 94-A | Product Service using OpenFeign | ✅ |
 | 94-B | Inventory Service for OpenFeign Communication | ✅ |
 | 94-C | Eureka server for Inventory Service  | ✅ |
+| 95-A | Prime Number Service | ✅ |
+| 95-B | Prime Number Feign Client | ✅ |
