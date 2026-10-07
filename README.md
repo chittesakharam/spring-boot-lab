@@ -174,3 +174,6 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 96-B | Eureka Discovery Server | ✅ |
 | 96-C | Message Service - Config + Eureka Provider | ✅ |
 | 96-D | Client Service - Eureka + OpenFeign Client | ✅ |
+| 97-A | Product Service - MySQL CRUD Provider | ✅ |
+| 97-B | Product Client Service - OpenFeign CRUD Client | ✅ |
+| 97-C | Eureka Server - Product Microservices Service Discovery | ✅ |
