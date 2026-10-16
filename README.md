@@ -177,3 +177,6 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 97-A | Product Service - MySQL CRUD Provider | ✅ |
 | 97-B | Product Client Service - OpenFeign CRUD Client | ✅ |
 | 97-C | Eureka Server - Product Microservices Service Discovery | ✅ |
+| 100-A | Customer Service - Spring Boot Actuator Health Monitoring | ✅ |
+| 100-B | Order Service - Spring Boot Actuator Health Monitoring | ✅ |
+| 100-C | Eureka Server - Customer and Order Service Discovery | ✅ |
