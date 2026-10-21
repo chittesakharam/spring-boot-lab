@@ -180,3 +180,4 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 100-A | Customer Service - Spring Boot Actuator Health Monitoring | ✅ |
 | 100-B | Order Service - Spring Boot Actuator Health Monitoring | ✅ |
 | 100-C | Eureka Server - Customer and Order Service Discovery | ✅ |
+| 101 | Online Course Management REST API - Spring Boot CRUD | ✅ |
