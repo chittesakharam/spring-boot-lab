@@ -181,3 +181,8 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 100-B | Order Service - Spring Boot Actuator Health Monitoring | ✅ |
 | 100-C | Eureka Server - Customer and Order Service Discovery | ✅ |
 | 101 | Online Course Management REST API - Spring Boot CRUD | ✅ |
+| 102-A | Payment Service - Resilience4j Circuit Breaker | ✅ |
+| 102-B | Order Service - Resilience4j Circuit Breaker | ✅ |
+| 102-C | Notification Service - Resilience4j Circuit Breaker | ✅ |
+| 102-D | Shopping Service - Resilience4j Circuit Breaker | ✅ |
+| 102-E | Eureka Server - Circuit Breaker Microservices Discovery | ✅ |
