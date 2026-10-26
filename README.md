@@ -186,3 +186,12 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 102-C | Notification Service - Resilience4j Circuit Breaker | ✅ |
 | 102-D | Shopping Service - Resilience4j Circuit Breaker | ✅ |
 | 102-E | Eureka Server - Circuit Breaker Microservices Discovery | ✅ |
+| 103-A | Eureka Server - Payment Monitoring | ✅ |
+| 103-B | Spring Boot Admin Server - Payment Monitoring | ✅ |
+| 103-C | Payment Service - Admin Monitoring Client | ✅ |
+| 104-A | Eureka Server - Product Monitoring | ✅ |
+| 104-B | Spring Boot Admin Server - Product Monitoring | ✅ |
+| 104-C | Product Service - Admin Monitoring Client | ✅ |
+| 105-A | Eureka Server - Notification Monitoring | ✅ |
+| 105-B | Spring Boot Admin Server - Notification Monitoring | ✅ |
+| 105-C | Notification Service - Admin Monitoring Client | ✅ |
