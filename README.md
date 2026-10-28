@@ -195,3 +195,7 @@ A collection of Spring Boot practical tasks and projects completed while learnin
 | 105-A | Eureka Server - Notification Monitoring | ✅ |
 | 105-B | Spring Boot Admin Server - Notification Monitoring | ✅ |
 | 105-C | Notification Service - Admin Monitoring Client | ✅ |
+| 106-A | Eureka Server - Product Review Microservices | ✅ |
+| 106-B | Spring Boot Admin Server - Product Review Monitoring | ✅ |
+| 106-C | Product Service - MySQL CRUD and Exception Handling | ✅ |
+| 106-D | Product Service Client - OpenFeign and Resilience4j | ✅ |
